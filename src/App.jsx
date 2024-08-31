@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import './App.css';
 // import Cards from './Components/Card';
 // import Header from './Components/Header';
-import End from './Components/End';
+// import End from './Components/End';
 // import Modal from './Components/Modal';
 
 const cities = [
