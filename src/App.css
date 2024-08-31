@@ -1,0 +1,54 @@
+
+
+/* Background with a weather theme */
+.bg-weather {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTChr-8DlEKWwtfHiMrkuZtQJWbHC_ZXGjQqw&s');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    width: 100vw; 
+    background-attachment: fixed;
+    height: 100vh; 
+  }
+  
+
+  .text-purple {
+    color: #6d28d9; 
+  }
+  
+  .bg-purple {
+    background-color: #6d28d9; 
+  }
+  
+  .text-white {
+    color: #ffffff; 
+  }
+  
+  .bg-white {
+    background-color: white; }
+  
+  .border-purple {
+    border-color: #6d28d9; 
+  }
+  .select-style {
+    padding: 0.75rem;
+    margin-bottom: 1.25rem;
+    border: 2px solid #6d28d9; 
+    border-radius: 10px; 
+    background-color: #6d28d9; /* Dark purple background */
+    color: #ffffff; /* White text */
+    font-size: 1rem;
+    cursor: pointer; /* Pointer cursor on hover */
+  }
+  
+  .select-style:hover {
+    border-color: #ffffff; /* White border on hover */
+    background-color: #9555f5; /* Slightly lighter purple on hover */
+  }
+  
+  .select-style option {
+    background-color: #6d28d9; 
+    border:1px solid white;
+    border-radius: 10px;
+    color: #ffffff; 
+  }  
